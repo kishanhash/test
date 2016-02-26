@@ -1,5 +1,5 @@
 print "Added test file"
 print "asdasd"
-print "asdasdasdasd"
+#print "asdasdasdasd"
 def func():
     print "This is a function"
